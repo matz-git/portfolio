@@ -70,7 +70,7 @@
         </div><!-- grid -->
 
         <footer>
-            2022 | Stefan Steil | <a href="https://github.com/matz-git/portfolio" taget="_blank">code (GitHub)</a>
+            2022 | Stefan Steil | <a href="https://github.com/matz-git/portfolio" target="_blank">code (GitHub)</a>
         </footer>
     </div><!-- content -->
 </body>
