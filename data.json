@@ -1,0 +1,79 @@
+[
+    {
+        "color": "radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%,#d6249f 60%,#285AEB 90%)",
+        "code": "https://github.com/matz-git/instagram",
+        "image": "instagram",
+        "image_alt": "instagram image",
+        "name": "Instagram",
+        "name_addition": "Clone",
+        "name_swapped": "false",
+        "text": "Ein Nachbau der Instagram Webseite nach einem Tutorial von Karl Hadwen. <br> Umgesetzt mit <i>react</i>, <i>firebase</i> als Backend und Authentifikation und dem CSS-Framework <i>Tailwind CSS</i>",
+        "web": "https://instaclone.stefan-steil.de"
+    },
+    {
+        "color": "#E50914",
+        "code": "https://github.com/matz-git/netflix",
+        "image": "netflix",
+        "image_alt": "nextflix image",
+        "name": "Netflix",
+        "name_addition": "Clone",
+        "name_swapped": "false",
+        "text": "Ein Nachbau der Netflix Webseite nach einem Tutorial von Karl Hadwen. <br> Umgesetzt mit <i>react (Styled-Components)</i>, <i>firebase</i> als Backend und Authentifikation, Suchfunktion mittels <i>fuse.js</i> und <i>Jest</i> als Testing Framework.",
+        "web": "https://blaflix.stefan-steil.de"
+    },
+    {
+        "color": "#29534F",
+        "code": "https://github.com/matz-git/elektrodesign",
+        "image": "elektrodesign",
+        "image_alt": "elektrodesign image",
+        "name": "Wordpress",
+        "name_addition": "Website",
+        "name_swapped": "false",
+        "text": "Ein selbst entwickeltes <i>Wordpress Theme</i> mit Blog-Funktion und anpassbar mit Hilfe des <i>advanced custom fields</i> Plugin. Responsive Layout durch <i>Pure.css</i>.",
+        "web": "https://elektrodesign.stefan-steil.de"
+    },
+    {
+        "color": "#5865F2",
+        "code": "https://github.com/matz-git/discord_bot",
+        "image": "discord",
+        "image_alt": "discord image",
+        "name": "Discord",
+        "name_addition": "Bot",
+        "name_swapped": "false",
+        "text": "Ein Discord Bot um verschiedene Befehle auszuführen, sowie Musik aus einem Youtube Video abzuspielen.",
+        "web": ""
+    },
+    {
+        "color": "#F6CD19",
+        "code": "https://github.com/matz-git/eloquent-js",
+        "image": "javascript",
+        "image_alt": "Javascript image",
+        "name": "Eloquent",
+        "name_addition": "Javascript",
+        "name_swapped": "true",
+        "text": "Selbst programmierte Website um die Übungen aus dem Buch <i>Eloquent JavaScript</i> von Marijn Haverbeke zu demonstrieren.",
+        "web": "https://javascript.stefan-steil.de"
+    },
+    {
+        "color": "#787CB5",
+        "code": "https://github.com/matz-git/php-blog",
+        "image": "php-blog",
+        "image_alt": "Encrypted Blog image",
+        "name": "encrypted",
+        "name_addition": "Blog",
+        "name_swapped": "false",
+        "text": "Ein Blog System in PHP, verschlüsselt mit Advanced Encryption Standard (AES-128).",
+        "web": "https://phpblog.stefan-steil.de"
+    },
+    {
+        "color": "#43B02A",
+        "code": "https://github.com/matz-git/crawler",
+        "image": "crawler",
+        "image_alt": "Python Crawler image",
+        "name": "Python",
+        "name_addition": "Crawler",
+        "name_swapped": "false",
+        "text": "Webcrawler geschrieben in Python mit <i>Selenium WebDriver</i>, um Daten und Bilder aus Instagram und beliebte Tags von SpreadShirt automatisiert auszulesen.",
+        "web": ""
+    }
+]
