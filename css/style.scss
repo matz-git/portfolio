@@ -153,6 +153,7 @@ body {
 }
 
 
+
 /* ____________________________ figure ____________________________ */
 figure {
     color: #fff;
@@ -480,6 +481,19 @@ footer {
     }
 }
 
+.fade {
+    animation: fadeIn 1s;
+}
+
+@keyframes fadeIn {
+    0% {
+        opacity: 0;
+    }
+
+    100% {
+        opacity: 1;
+    }
+}
 
 /* ____________________________ Responsive ____________________________ */
 @media screen and (max-width: 620px) {
@@ -497,5 +511,47 @@ footer {
         img {
             height: 100%;
         }
+    }
+}
+
+
+/* ____________________________ Impressum ____________________________ */
+.impressum {
+    display: none;
+    color: white;
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 0 10px;
+
+    h1 {
+        font-size: 2em;
+        font-weight: bold;
+        margin: 1em 0;
+    }
+
+    h2 {
+        font-size: 1.5em;
+        font-weight: bold;
+        margin: 1em 0;
+    }
+
+    h3 {
+        font-size: 1.2em;
+        font-weight: bold;
+        margin: 1em 0;
+    }
+
+    h4 {
+        font-size: 1em;
+        font-weight: bold;
+        margin: 1em 0;
+    }
+
+    a {
+        text-decoration: underline;
+    }
+
+    p, li {
+        line-height: 1.3em;
     }
 }
